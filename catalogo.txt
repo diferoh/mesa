@@ -1,0 +1,10 @@
+# Catálogo de Respuestas Frecuentes - HelpDesk AI
+
+**Problema:** "Tengo problemas para acceder a la plataforma corporativa. El sistema me rechaza las credenciales."
+**Respuesta:** Verifica que no tengas la tecla Bloq Mayús activada. Si el problema persiste, puedes intentar restablecer tu contraseña haciendo clic en "Olvidé mi contraseña" en la pantalla de inicio de sesión. Si no recibes el correo de restablecimiento en 5 minutos, contacta a soporte técnico al anexo 1234.
+
+**Problema:** "¿Cómo solicito vacaciones?"
+**Respuesta:** Las solicitudes de vacaciones se gestionan a través del portal de Recursos Humanos en la sección "Mis Solicitudes". Debes ingresarlas con al menos 15 días de anticipación.
+
+**Problema:** "Mi equipo está muy lento."
+**Respuesta:** Por favor, asegúrate de reiniciar tu equipo al menos una vez por semana. Si la lentitud continúa, cierra las aplicaciones en segundo plano. Si el problema es crítico, genera un ticket en el sistema de HelpDesk seleccionando la categoría "Hardware".
